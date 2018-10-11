@@ -1,0 +1,36 @@
+{
+	"name": "matrioshka.icons",
+	"version": "0.1.1",
+	"description": "Icons for you web application",
+	"main": "gulpfile.js",
+	"devDependencies": {
+		"async": "^2.6.1",
+		"clean-css": "^4.2.1",
+		"consolidate": "^0.15.1",
+		"gulp": "^4.0.0",
+		"gulp-clean": "^0.4.0",
+		"gulp-clean-css": "^3.10.0",
+		"gulp-consolidate": "^0.2.0",
+		"gulp-iconfont": "^10.0.2",
+		"gulp-rename": "^1.4.0",
+		"underscore": "^1.9.1"
+	},
+	"scripts": {
+		"start": " node node_modules/gulp/bin/gulp.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/avmaisak/Matrioshka.Icons.git"
+	},
+	"keywords": [
+		"icons",
+		"svg"
+	],
+	"author": "Anton Maisak",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/avmaisak/Matrioshka.Icons/issues"
+	},
+	"homepage": "https://github.com/avmaisak/Matrioshka.Icons#readme"
+}
