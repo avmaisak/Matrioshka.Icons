@@ -71,5 +71,6 @@ gulp.task('css-min', () => {
 gulp.task('default', gulp.series(
 	'clean',
 	'icon',
-	'css-min'
+	'css-min',
+	'png'
 ));
