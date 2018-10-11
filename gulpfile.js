@@ -5,6 +5,7 @@ let gulp = require('gulp'),
 	cleanCSS = require('gulp-clean-css'),
 	rename = require('gulp-rename'),
 	clean = require('gulp-clean'),
+	raster = require('gulp-raster'),
 	consolidate = require('gulp-consolidate');
 
 // clean dist folder before build
@@ -15,8 +16,18 @@ gulp.task('clean', () => {
 		}));
 });
 
+// generate png images from svg (optional)
+gulp.task('png', () => {
+	return gulp.src('./src/svg/*.svg')
+		.pipe(raster())
+		.pipe(rename({
+			extname: '.png'
+		}))
+		.pipe(gulp.dest('./dist/i'))
+});
+
 // generate icon fonts  from svg
-gulp.task('icon', function () {
+gulp.task('icon', () => {
 	return gulp.src('src/svg/*.svg')
 		.pipe(iconfont({
 			fontName: 'matrioshkaIcons',
@@ -56,7 +67,6 @@ gulp.task('css-min', () => {
 		}))
 		.pipe(gulp.dest('dist/css/'));
 });
-
 
 gulp.task('default', gulp.series(
 	'clean',
