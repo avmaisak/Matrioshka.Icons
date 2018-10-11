@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<title>
+		<%= fontName %>
+	</title>
+	<link rel="stylesheet" href="css/matrioshka-icons.min.css" />
+</head>
+
+<body>
+
+	<% _.each(glyphs, function(icon){ %>
+	<div class="pad-1 txt-cntr disp-inline-blck">
+		<i class='mi-<%= icon.name %> pad-1 txt-sz3'></i>
+		<br />
+		<small>mi-
+			<%= icon.name %></small>
+	</div>
+	<% }) %>
+
+</body>
+
+</html>
