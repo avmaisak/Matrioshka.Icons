@@ -1,6 +1,6 @@
 {
 	"name": "matrioshka.icons",
-	"version": "0.1.5",
+	"version": "0.1.6",
 	"description": "Icons for you web application",
 	"main": "gulpfile.js",
 	"devDependencies": {
@@ -19,6 +19,7 @@
 	},
 	"scripts": {
 		"start": " node node_modules/gulp/bin/gulp.js",
+		"build": " node node_modules/gulp/bin/gulp.js",
 		"png": " node node_modules/gulp/bin/gulp.js png",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
