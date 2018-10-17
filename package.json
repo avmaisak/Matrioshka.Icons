@@ -1,7 +1,7 @@
 {
 	"name": "matrioshka.icons",
-	"version": "0.1.6",
-	"description": "Icons for you web application",
+	"version": "0.1.7",
+	"description": "Icons for you application!",
 	"main": "gulpfile.js",
 	"devDependencies": {
 		"async": "^2.6.1",
