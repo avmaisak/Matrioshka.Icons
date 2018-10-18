@@ -74,7 +74,7 @@ gulp.task('json', () => {
 		let fsList = [];
 		fs.readdir('src/svg/', (err, files) => {
 			files.forEach(file => {
-				fsList.push(file)
+				fsList.push(file.split('.').slice(0, -1).join('.'))
 			});
 
 			if (!fs.existsSync('dist/data/')) {
