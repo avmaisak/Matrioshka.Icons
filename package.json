@@ -1,6 +1,6 @@
 {
 	"name": "matrioshka.icons",
-	"version": "0.1.7",
+	"version": "0.1.8",
 	"description": "Icons for you application!",
 	"main": "gulpfile.js",
 	"devDependencies": {
@@ -34,7 +34,7 @@
 	"author": "Anton Maisak",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/avmaisak/Matrioshka.Icons/issues"
+		"url": "https://matrioshka.tools/icons"
 	},
 	"homepage": "https://github.com/avmaisak/Matrioshka.Icons#readme"
 }
