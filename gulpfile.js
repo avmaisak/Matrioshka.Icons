@@ -6,7 +6,8 @@ let gulp = require('gulp'),
 	rename = require('gulp-rename'),
 	clean = require('gulp-clean'),
 	raster = require('gulp-raster'),
-	consolidate = require('gulp-consolidate');
+	consolidate = require('gulp-consolidate'),
+	fs = require('fs');
 
 // clean dist folder before build
 gulp.task('clean', () => {
@@ -68,9 +69,30 @@ gulp.task('css-min', () => {
 		.pipe(gulp.dest('dist/css/'));
 });
 
+gulp.task('json', () => {
+	return new Promise(function (resolve, reject) {
+		let fsList = [];
+		fs.readdir('src/svg/', (err, files) => {
+			files.forEach(file => {
+				fsList.push(file.split('.').slice(0, -1).join('.'))
+			});
+
+			if (!fs.existsSync('dist/data/')) {
+				fs.mkdirSync('dist/data/');
+			}
+
+			fs.appendFile('dist/data/data.json', JSON.stringify(fsList), function (err) {
+				if (err) throw err;
+			});
+		});
+		resolve();
+	});
+});
+
 gulp.task('default', gulp.series(
 	'clean',
 	'icon',
 	'css-min',
-	'png'
+	'png',
+	'json'
 ));
