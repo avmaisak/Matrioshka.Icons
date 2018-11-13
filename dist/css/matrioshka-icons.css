@@ -4919,524 +4919,540 @@ Glyphs list
 		content: '\eec6';
 	}
 
-	 .mi-shuffle:before {
+	 .mi-shield-blank:before {
 		content: '\eec7';
 	}
 
-	 .mi-skip-backward:before {
+	 .mi-shield-check:before {
 		content: '\eec8';
 	}
 
-	 .mi-skip-forward:before {
+	 .mi-shield-close:before {
 		content: '\eec9';
 	}
 
-	 .mi-social-android-outline:before {
+	 .mi-shield-cross:before {
 		content: '\eeca';
 	}
 
-	 .mi-social-android:before {
+	 .mi-shuffle:before {
 		content: '\eecb';
 	}
 
-	 .mi-social-angular-outline:before {
+	 .mi-skip-backward:before {
 		content: '\eecc';
 	}
 
-	 .mi-social-angular:before {
+	 .mi-skip-forward:before {
 		content: '\eecd';
 	}
 
-	 .mi-social-apple-outline:before {
+	 .mi-social-android-outline:before {
 		content: '\eece';
 	}
 
-	 .mi-social-apple:before {
+	 .mi-social-android:before {
 		content: '\eecf';
 	}
 
-	 .mi-social-bitcoin-outline:before {
+	 .mi-social-angular-outline:before {
 		content: '\eed0';
 	}
 
-	 .mi-social-bitcoin:before {
+	 .mi-social-angular:before {
 		content: '\eed1';
 	}
 
-	 .mi-social-buffer-outline:before {
+	 .mi-social-apple-outline:before {
 		content: '\eed2';
 	}
 
-	 .mi-social-buffer:before {
+	 .mi-social-apple:before {
 		content: '\eed3';
 	}
 
-	 .mi-social-chrome-outline:before {
+	 .mi-social-bitcoin-outline:before {
 		content: '\eed4';
 	}
 
-	 .mi-social-chrome:before {
+	 .mi-social-bitcoin:before {
 		content: '\eed5';
 	}
 
-	 .mi-social-codepen-outline:before {
+	 .mi-social-buffer-outline:before {
 		content: '\eed6';
 	}
 
-	 .mi-social-codepen:before {
+	 .mi-social-buffer:before {
 		content: '\eed7';
 	}
 
-	 .mi-social-css3-outline:before {
+	 .mi-social-chrome-outline:before {
 		content: '\eed8';
 	}
 
-	 .mi-social-css3:before {
+	 .mi-social-chrome:before {
 		content: '\eed9';
 	}
 
-	 .mi-social-designernews-outline:before {
+	 .mi-social-codepen-outline:before {
 		content: '\eeda';
 	}
 
-	 .mi-social-designernews:before {
+	 .mi-social-codepen:before {
 		content: '\eedb';
 	}
 
-	 .mi-social-dribbble-outline:before {
+	 .mi-social-css3-outline:before {
 		content: '\eedc';
 	}
 
-	 .mi-social-dribbble:before {
+	 .mi-social-css3:before {
 		content: '\eedd';
 	}
 
-	 .mi-social-dropbox-outline:before {
+	 .mi-social-designernews-outline:before {
 		content: '\eede';
 	}
 
-	 .mi-social-dropbox:before {
+	 .mi-social-designernews:before {
 		content: '\eedf';
 	}
 
-	 .mi-social-euro-outline:before {
+	 .mi-social-dribbble-outline:before {
 		content: '\eee0';
 	}
 
-	 .mi-social-euro:before {
+	 .mi-social-dribbble:before {
 		content: '\eee1';
 	}
 
-	 .mi-social-facebook-outline:before {
+	 .mi-social-dropbox-outline:before {
 		content: '\eee2';
 	}
 
-	 .mi-social-facebook:before {
+	 .mi-social-dropbox:before {
 		content: '\eee3';
 	}
 
-	 .mi-social-foursquare-outline:before {
+	 .mi-social-euro-outline:before {
 		content: '\eee4';
 	}
 
-	 .mi-social-foursquare:before {
+	 .mi-social-euro:before {
 		content: '\eee5';
 	}
 
-	 .mi-social-freebsd-devil:before {
+	 .mi-social-facebook-outline:before {
 		content: '\eee6';
 	}
 
-	 .mi-social-github-outline:before {
+	 .mi-social-facebook:before {
 		content: '\eee7';
 	}
 
-	 .mi-social-github:before {
+	 .mi-social-foursquare-outline:before {
 		content: '\eee8';
 	}
 
-	 .mi-social-google-outline:before {
+	 .mi-social-foursquare:before {
 		content: '\eee9';
 	}
 
-	 .mi-social-google:before {
+	 .mi-social-freebsd-devil:before {
 		content: '\eeea';
 	}
 
-	 .mi-social-googleplus-outline:before {
+	 .mi-social-github-outline:before {
 		content: '\eeeb';
 	}
 
-	 .mi-social-googleplus:before {
+	 .mi-social-github:before {
 		content: '\eeec';
 	}
 
-	 .mi-social-hackernews-outline:before {
+	 .mi-social-google-outline:before {
 		content: '\eeed';
 	}
 
-	 .mi-social-hackernews:before {
+	 .mi-social-google:before {
 		content: '\eeee';
 	}
 
-	 .mi-social-html5-outline:before {
+	 .mi-social-googleplus-outline:before {
 		content: '\eeef';
 	}
 
-	 .mi-social-html5:before {
+	 .mi-social-googleplus:before {
 		content: '\eef0';
 	}
 
-	 .mi-social-instagram-outline:before {
+	 .mi-social-hackernews-outline:before {
 		content: '\eef1';
 	}
 
-	 .mi-social-instagram:before {
+	 .mi-social-hackernews:before {
 		content: '\eef2';
 	}
 
-	 .mi-social-javascript-outline:before {
+	 .mi-social-html5-outline:before {
 		content: '\eef3';
 	}
 
-	 .mi-social-javascript:before {
+	 .mi-social-html5:before {
 		content: '\eef4';
 	}
 
-	 .mi-social-linkedin-outline:before {
+	 .mi-social-instagram-outline:before {
 		content: '\eef5';
 	}
 
-	 .mi-social-linkedin:before {
+	 .mi-social-instagram:before {
 		content: '\eef6';
 	}
 
-	 .mi-social-markdown:before {
+	 .mi-social-javascript-outline:before {
 		content: '\eef7';
 	}
 
-	 .mi-social-nodejs:before {
+	 .mi-social-javascript:before {
 		content: '\eef8';
 	}
 
-	 .mi-social-octocat:before {
+	 .mi-social-linkedin-outline:before {
 		content: '\eef9';
 	}
 
-	 .mi-social-pinterest-outline:before {
+	 .mi-social-linkedin:before {
 		content: '\eefa';
 	}
 
-	 .mi-social-pinterest:before {
+	 .mi-social-markdown:before {
 		content: '\eefb';
 	}
 
-	 .mi-social-python:before {
+	 .mi-social-nodejs:before {
 		content: '\eefc';
 	}
 
-	 .mi-social-reddit-outline:before {
+	 .mi-social-octocat:before {
 		content: '\eefd';
 	}
 
-	 .mi-social-reddit:before {
+	 .mi-social-pinterest-outline:before {
 		content: '\eefe';
 	}
 
-	 .mi-social-rss-outline:before {
+	 .mi-social-pinterest:before {
 		content: '\eeff';
 	}
 
-	 .mi-social-rss:before {
+	 .mi-social-python:before {
 		content: '\ef00';
 	}
 
-	 .mi-social-sass:before {
+	 .mi-social-reddit-outline:before {
 		content: '\ef01';
 	}
 
-	 .mi-social-skype-outline:before {
+	 .mi-social-reddit:before {
 		content: '\ef02';
 	}
 
-	 .mi-social-skype:before {
+	 .mi-social-rss-outline:before {
 		content: '\ef03';
 	}
 
-	 .mi-social-snapchat-outline:before {
+	 .mi-social-rss:before {
 		content: '\ef04';
 	}
 
-	 .mi-social-snapchat:before {
+	 .mi-social-sass:before {
 		content: '\ef05';
 	}
 
-	 .mi-social-tumblr-outline:before {
+	 .mi-social-skype-outline:before {
 		content: '\ef06';
 	}
 
-	 .mi-social-tumblr:before {
+	 .mi-social-skype:before {
 		content: '\ef07';
 	}
 
-	 .mi-social-tux:before {
+	 .mi-social-snapchat-outline:before {
 		content: '\ef08';
 	}
 
-	 .mi-social-twitch-outline:before {
+	 .mi-social-snapchat:before {
 		content: '\ef09';
 	}
 
-	 .mi-social-twitch:before {
+	 .mi-social-tumblr-outline:before {
 		content: '\ef0a';
 	}
 
-	 .mi-social-twitter-outline:before {
+	 .mi-social-tumblr:before {
 		content: '\ef0b';
 	}
 
-	 .mi-social-twitter:before {
+	 .mi-social-tux:before {
 		content: '\ef0c';
 	}
 
-	 .mi-social-usd-outline:before {
+	 .mi-social-twitch-outline:before {
 		content: '\ef0d';
 	}
 
-	 .mi-social-usd:before {
+	 .mi-social-twitch:before {
 		content: '\ef0e';
 	}
 
-	 .mi-social-vimeo-outline:before {
+	 .mi-social-twitter-outline:before {
 		content: '\ef0f';
 	}
 
-	 .mi-social-vimeo:before {
+	 .mi-social-twitter:before {
 		content: '\ef10';
 	}
 
-	 .mi-social-whatsapp-outline:before {
+	 .mi-social-usd-outline:before {
 		content: '\ef11';
 	}
 
-	 .mi-social-whatsapp:before {
+	 .mi-social-usd:before {
 		content: '\ef12';
 	}
 
-	 .mi-social-windows-outline:before {
+	 .mi-social-vimeo-outline:before {
 		content: '\ef13';
 	}
 
-	 .mi-social-windows:before {
+	 .mi-social-vimeo:before {
 		content: '\ef14';
 	}
 
-	 .mi-social-wordpress-outline:before {
+	 .mi-social-whatsapp-outline:before {
 		content: '\ef15';
 	}
 
-	 .mi-social-wordpress:before {
+	 .mi-social-whatsapp:before {
 		content: '\ef16';
 	}
 
-	 .mi-social-yahoo-outline:before {
+	 .mi-social-windows-outline:before {
 		content: '\ef17';
 	}
 
-	 .mi-social-yahoo:before {
+	 .mi-social-windows:before {
 		content: '\ef18';
 	}
 
-	 .mi-social-yen-outline:before {
+	 .mi-social-wordpress-outline:before {
 		content: '\ef19';
 	}
 
-	 .mi-social-yen:before {
+	 .mi-social-wordpress:before {
 		content: '\ef1a';
 	}
 
-	 .mi-social-youtube-outline:before {
+	 .mi-social-yahoo-outline:before {
 		content: '\ef1b';
 	}
 
-	 .mi-social-youtube:before {
+	 .mi-social-yahoo:before {
 		content: '\ef1c';
 	}
 
-	 .mi-soup-can-outline:before {
+	 .mi-social-yen-outline:before {
 		content: '\ef1d';
 	}
 
-	 .mi-soup-can:before {
+	 .mi-social-yen:before {
 		content: '\ef1e';
 	}
 
-	 .mi-speakerphone:before {
+	 .mi-social-youtube-outline:before {
 		content: '\ef1f';
 	}
 
-	 .mi-speedometer:before {
+	 .mi-social-youtube:before {
 		content: '\ef20';
 	}
 
-	 .mi-spoon:before {
+	 .mi-soup-can-outline:before {
 		content: '\ef21';
 	}
 
-	 .mi-star:before {
+	 .mi-soup-can:before {
 		content: '\ef22';
 	}
 
-	 .mi-stats-bars:before {
+	 .mi-speakerphone:before {
 		content: '\ef23';
 	}
 
-	 .mi-steam:before {
+	 .mi-speedometer:before {
 		content: '\ef24';
 	}
 
-	 .mi-stop:before {
+	 .mi-spoon:before {
 		content: '\ef25';
 	}
 
-	 .mi-telephone:before {
+	 .mi-star:before {
 		content: '\ef26';
 	}
 
-	 .mi-thermometer:before {
+	 .mi-stats-bars:before {
 		content: '\ef27';
 	}
 
-	 .mi-thumbsdown:before {
+	 .mi-steam:before {
 		content: '\ef28';
 	}
 
-	 .mi-thumbsup:before {
+	 .mi-stop:before {
 		content: '\ef29';
 	}
 
-	 .mi-toggle-filled:before {
+	 .mi-telephone:before {
 		content: '\ef2a';
 	}
 
-	 .mi-toggle:before {
+	 .mi-thermometer:before {
 		content: '\ef2b';
 	}
 
-	 .mi-transgender:before {
+	 .mi-thumbsdown:before {
 		content: '\ef2c';
 	}
 
-	 .mi-trash-a:before {
+	 .mi-thumbsup:before {
 		content: '\ef2d';
 	}
 
-	 .mi-trash-b:before {
+	 .mi-toggle-filled:before {
 		content: '\ef2e';
 	}
 
-	 .mi-triangle-down:before {
+	 .mi-toggle:before {
 		content: '\ef2f';
 	}
 
-	 .mi-triangle-left:before {
+	 .mi-transgender:before {
 		content: '\ef30';
 	}
 
-	 .mi-triangle-right:before {
+	 .mi-trash-a:before {
 		content: '\ef31';
 	}
 
-	 .mi-triangle-up:before {
+	 .mi-trash-b:before {
 		content: '\ef32';
 	}
 
-	 .mi-trophy:before {
+	 .mi-triangle-down:before {
 		content: '\ef33';
 	}
 
-	 .mi-tshirt-outline:before {
+	 .mi-triangle-left:before {
 		content: '\ef34';
 	}
 
-	 .mi-tshirt:before {
+	 .mi-triangle-right:before {
 		content: '\ef35';
 	}
 
-	 .mi-umbrella:before {
+	 .mi-triangle-up:before {
 		content: '\ef36';
 	}
 
-	 .mi-university:before {
+	 .mi-trophy:before {
 		content: '\ef37';
 	}
 
-	 .mi-unlocked:before {
+	 .mi-tshirt-outline:before {
 		content: '\ef38';
 	}
 
-	 .mi-upload:before {
+	 .mi-tshirt:before {
 		content: '\ef39';
 	}
 
-	 .mi-usb:before {
+	 .mi-umbrella:before {
 		content: '\ef3a';
 	}
 
-	 .mi-videocamera:before {
+	 .mi-university:before {
 		content: '\ef3b';
 	}
 
-	 .mi-vk:before {
+	 .mi-unlocked:before {
 		content: '\ef3c';
 	}
 
-	 .mi-volume-high:before {
+	 .mi-upload:before {
 		content: '\ef3d';
 	}
 
-	 .mi-volume-low:before {
+	 .mi-usb:before {
 		content: '\ef3e';
 	}
 
-	 .mi-volume-medium:before {
+	 .mi-videocamera:before {
 		content: '\ef3f';
 	}
 
-	 .mi-volume-mute:before {
+	 .mi-vk:before {
 		content: '\ef40';
 	}
 
-	 .mi-wand:before {
+	 .mi-volume-high:before {
 		content: '\ef41';
 	}
 
-	 .mi-waterdrop:before {
+	 .mi-volume-low:before {
 		content: '\ef42';
 	}
 
-	 .mi-wifi:before {
+	 .mi-volume-medium:before {
 		content: '\ef43';
 	}
 
-	 .mi-wineglass:before {
+	 .mi-volume-mute:before {
 		content: '\ef44';
 	}
 
-	 .mi-woman:before {
+	 .mi-wand:before {
 		content: '\ef45';
 	}
 
-	 .mi-wrench:before {
+	 .mi-waterdrop:before {
 		content: '\ef46';
 	}
 
-	 .mi-xbox:before {
+	 .mi-wifi:before {
 		content: '\ef47';
 	}
 
-	 .mi-youtube:before {
+	 .mi-wineglass:before {
 		content: '\ef48';
+	}
+
+	 .mi-woman:before {
+		content: '\ef49';
+	}
+
+	 .mi-wrench:before {
+		content: '\ef4a';
+	}
+
+	 .mi-xbox:before {
+		content: '\ef4b';
+	}
+
+	 .mi-youtube:before {
+		content: '\ef4c';
 	}
 
 	
