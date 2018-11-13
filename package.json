@@ -1,6 +1,6 @@
 {
 	"name": "matrioshka.icons",
-	"version": "0.1.10",
+	"version": "0.1.11",
 	"description": "Icons for you application!",
 	"main": "gulpfile.js",
 	"devDependencies": {
