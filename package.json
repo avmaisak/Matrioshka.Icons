@@ -1,13 +1,13 @@
 {
 	"name": "matrioshka.icons",
-	"version": "0.1.11",
+	"version": "0.1.12",
 	"description": "Icons for you application!",
 	"main": "gulpfile.js",
 	"devDependencies": {
 		"async": "^2.6.1",
 		"clean-css": "^4.2.1",
 		"consolidate": "^0.15.1",
-		"debug": "^4.1.0",
+		"debug": "^4.1.1",
 		"gulp": "^4.0.0",
 		"gulp-clean": "^0.4.0",
 		"gulp-clean-css": "^3.10.0",
