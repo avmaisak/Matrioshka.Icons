@@ -4,7 +4,7 @@
 	"description": "Icons for you application!",
 	"main": "gulpfile.js",
 	"devDependencies": {
-		"async": "^2.6.1",
+		"async": "^2.6.2",
 		"clean-css": "^4.2.1",
 		"consolidate": "^0.15.1",
 		"debug": "^4.1.1",
