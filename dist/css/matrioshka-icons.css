@@ -5327,144 +5327,148 @@ Glyphs list
 		content: '\ef2c';
 	}
 
-	 .mi-telephone:before {
+	 .mi-telegram:before {
 		content: '\ef2d';
 	}
 
-	 .mi-thermometer:before {
+	 .mi-telephone:before {
 		content: '\ef2e';
 	}
 
-	 .mi-thumbsdown:before {
+	 .mi-thermometer:before {
 		content: '\ef2f';
 	}
 
-	 .mi-thumbsup:before {
+	 .mi-thumbsdown:before {
 		content: '\ef30';
 	}
 
-	 .mi-toggle-filled:before {
+	 .mi-thumbsup:before {
 		content: '\ef31';
 	}
 
-	 .mi-toggle:before {
+	 .mi-toggle-filled:before {
 		content: '\ef32';
 	}
 
-	 .mi-transgender:before {
+	 .mi-toggle:before {
 		content: '\ef33';
 	}
 
-	 .mi-trash-a:before {
+	 .mi-transgender:before {
 		content: '\ef34';
 	}
 
-	 .mi-trash-b:before {
+	 .mi-trash-a:before {
 		content: '\ef35';
 	}
 
-	 .mi-triangle-down:before {
+	 .mi-trash-b:before {
 		content: '\ef36';
 	}
 
-	 .mi-triangle-left:before {
+	 .mi-triangle-down:before {
 		content: '\ef37';
 	}
 
-	 .mi-triangle-right:before {
+	 .mi-triangle-left:before {
 		content: '\ef38';
 	}
 
-	 .mi-triangle-up:before {
+	 .mi-triangle-right:before {
 		content: '\ef39';
 	}
 
-	 .mi-trophy:before {
+	 .mi-triangle-up:before {
 		content: '\ef3a';
 	}
 
-	 .mi-tshirt-outline:before {
+	 .mi-trophy:before {
 		content: '\ef3b';
 	}
 
-	 .mi-tshirt:before {
+	 .mi-tshirt-outline:before {
 		content: '\ef3c';
 	}
 
-	 .mi-umbrella:before {
+	 .mi-tshirt:before {
 		content: '\ef3d';
 	}
 
-	 .mi-university:before {
+	 .mi-umbrella:before {
 		content: '\ef3e';
 	}
 
-	 .mi-unlocked:before {
+	 .mi-university:before {
 		content: '\ef3f';
 	}
 
-	 .mi-upload:before {
+	 .mi-unlocked:before {
 		content: '\ef40';
 	}
 
-	 .mi-usb:before {
+	 .mi-upload:before {
 		content: '\ef41';
 	}
 
-	 .mi-videocamera:before {
+	 .mi-usb:before {
 		content: '\ef42';
 	}
 
-	 .mi-vk:before {
+	 .mi-videocamera:before {
 		content: '\ef43';
 	}
 
-	 .mi-volume-high:before {
+	 .mi-vk:before {
 		content: '\ef44';
 	}
 
-	 .mi-volume-low:before {
+	 .mi-volume-high:before {
 		content: '\ef45';
 	}
 
-	 .mi-volume-medium:before {
+	 .mi-volume-low:before {
 		content: '\ef46';
 	}
 
-	 .mi-volume-mute:before {
+	 .mi-volume-medium:before {
 		content: '\ef47';
 	}
 
-	 .mi-wand:before {
+	 .mi-volume-mute:before {
 		content: '\ef48';
 	}
 
-	 .mi-waterdrop:before {
+	 .mi-wand:before {
 		content: '\ef49';
 	}
 
-	 .mi-wifi:before {
+	 .mi-waterdrop:before {
 		content: '\ef4a';
 	}
 
-	 .mi-wineglass:before {
+	 .mi-wifi:before {
 		content: '\ef4b';
 	}
 
-	 .mi-woman:before {
+	 .mi-wineglass:before {
 		content: '\ef4c';
 	}
 
-	 .mi-wrench:before {
+	 .mi-woman:before {
 		content: '\ef4d';
 	}
 
-	 .mi-xbox:before {
+	 .mi-wrench:before {
 		content: '\ef4e';
 	}
 
-	 .mi-youtube:before {
+	 .mi-xbox:before {
 		content: '\ef4f';
+	}
+
+	 .mi-youtube:before {
+		content: '\ef50';
 	}
 
 	
