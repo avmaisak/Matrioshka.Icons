@@ -17,7 +17,6 @@
 	font-variant: normal;
 	font-weight: normal;
 	font-size: inherit;
-	vertical-align: middle;
 	speak: none;
 	text-decoration: inherit;
 	text-transform: none;
@@ -25,7 +24,6 @@
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	display: inline-block;
-	line-height: 1;
 }
 
 /*
